@@ -21,4 +21,5 @@ Once checked that both files do indeed exist, the script will compare them with 
   - sha512 signature
   - sha3_256 signature
   - sha3_512 signature
+
 In case any of them fails (both files have different results), the script will stop immediately.
